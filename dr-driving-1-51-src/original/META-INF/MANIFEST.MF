@@ -1,0 +1,832 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.0.1
+
+Name: AndroidManifest.xml
+SHA1-Digest: F+AzDj9K3bFcC+GToNCv7qzJBr0=
+
+Name: assets/background.png
+SHA1-Digest: 35M6s/0U2R/J14885yDzBfPvM4Q=
+
+Name: assets/cars/AI_car01.obj
+SHA1-Digest: Zbb4FfjxcMmBx+mXhukHfjR+vho=
+
+Name: assets/cars/AI_car01.png
+SHA1-Digest: 5kbKqjBdpElZxduuPzbQSHnIGeE=
+
+Name: assets/cars/AI_car02.obj
+SHA1-Digest: 616/WTTihbWW6+WSQ2dSBj0E0bA=
+
+Name: assets/cars/AI_car02.png
+SHA1-Digest: LVlSqz5zXjhiw1/TqAemNfwUt+I=
+
+Name: assets/cars/car00.obj
+SHA1-Digest: Vzi2MEPFhM1RbDDoPmPuHg55MKM=
+
+Name: assets/cars/car00.png
+SHA1-Digest: IVp/hXT2UTIDtwgFBsFi8VpMJSY=
+
+Name: assets/cars/car01.obj
+SHA1-Digest: 9TFC4G9P/azJ3F7rpqOoDhzvMqg=
+
+Name: assets/cars/car01.png
+SHA1-Digest: 94SoysfIS9cDxWNeVPX5akskmBg=
+
+Name: assets/cars/car02.obj
+SHA1-Digest: 6Ql9XMuRLCWTbpBiycNseKi8ytQ=
+
+Name: assets/cars/car02.png
+SHA1-Digest: m1dKeH+AoOg6NjS8oiPMyNVohV8=
+
+Name: assets/cars/car03.obj
+SHA1-Digest: zsNcR8rQwJcl10Z3Y8EmY5IDwYY=
+
+Name: assets/cars/car03.png
+SHA1-Digest: WFULTfu1147QGho49kjEPnDcNIU=
+
+Name: assets/cars/car04.obj
+SHA1-Digest: L+ImN/xM4opII6DgbVlYkAvruEs=
+
+Name: assets/cars/car04.png
+SHA1-Digest: Yf+FvYNnQWs0y71pIKMyiIeqllM=
+
+Name: assets/cars/car05.obj
+SHA1-Digest: Ps+SXyLQ+87MsOj5g+qdvboe97I=
+
+Name: assets/cars/car05.png
+SHA1-Digest: CWJRa7AS0b8sxuU/ppyEGizpuYQ=
+
+Name: assets/cars/car06.obj
+SHA1-Digest: CfNBw/gTRlfWIL3mGAEwzJ/JubA=
+
+Name: assets/cars/car06.png
+SHA1-Digest: p2B4+NhRgP83lwp/PIITy0DK/wY=
+
+Name: assets/cars/car07.obj
+SHA1-Digest: k0C7224arHDq92p57C7sspvwNdA=
+
+Name: assets/cars/car07.png
+SHA1-Digest: 8Dml/uXpDKWoUEqCs1DhWtx6UPY=
+
+Name: assets/cars/car08.obj
+SHA1-Digest: 5E6wT2a3lrChhBus4FCBkRIJdk4=
+
+Name: assets/cars/car08.png
+SHA1-Digest: e607Jrhkr2NdPUmvyBRIcrpDsYs=
+
+Name: assets/cars/car09.obj
+SHA1-Digest: j+22yTXbXBEzGFLBQd9ofFtpmmo=
+
+Name: assets/cars/car09.png
+SHA1-Digest: sMmSS3hSItawLd8WqeoTHGo+hOE=
+
+Name: assets/cars/car10.obj
+SHA1-Digest: 6Gmj7NgK5xF8pN7Csn1POXAHnr4=
+
+Name: assets/cars/car10.png
+SHA1-Digest: vTRSeTHSWdx/T4gGUHrxi0PgRCk=
+
+Name: assets/cars/car11.obj
+SHA1-Digest: v48rqrSpcvqdLv7Ea8nmxZ1Y7Jw=
+
+Name: assets/cars/car11.png
+SHA1-Digest: 2c23Wlnha2QPYbTCPasjASZMpA4=
+
+Name: assets/cars/car12.obj
+SHA1-Digest: uL45zmi9jhL3rfhNZ+6ip99AdbI=
+
+Name: assets/cars/car12.png
+SHA1-Digest: g6vs0M0GceRYyVXPLAlw9CTrCbg=
+
+Name: assets/cars/car13.obj
+SHA1-Digest: yolUV35emrIf1KFnHa/7nTi2mKc=
+
+Name: assets/cars/car13.png
+SHA1-Digest: BMlQqSCqGGJy3SlBrZ/YxDgjBW0=
+
+Name: assets/cars/car14.obj
+SHA1-Digest: SK8teYBQWccagOMF/Q5LAdnQ8Ec=
+
+Name: assets/cars/car14.png
+SHA1-Digest: 2unJfTkzym23aWmb770NDXFLQ5Y=
+
+Name: assets/cars/car15.obj
+SHA1-Digest: yVULh/7pKOkIZ6Plp46xA1hGde0=
+
+Name: assets/cars/car15.png
+SHA1-Digest: jRIp4TAEtE48E9K61uGmDOJjBMM=
+
+Name: assets/cars/car16.obj
+SHA1-Digest: 8IPUBw2vz2c6vl1QH/fF1LTWeHE=
+
+Name: assets/cars/car16.png
+SHA1-Digest: qVt9H4iVvnzFIwXwFiWVnv8kuOo=
+
+Name: assets/cars/car17.obj
+SHA1-Digest: kWqrtCPjOw8SMPoyT7T2Bz7ne50=
+
+Name: assets/cars/car17.png
+SHA1-Digest: 1mkfw81l9Faccyw7s3liokD1LeI=
+
+Name: assets/cars/car18.obj
+SHA1-Digest: gKL4yps3Eh4N0U3DaZXIEwvVXl8=
+
+Name: assets/cars/car18.png
+SHA1-Digest: YHWZEr0LKoCg2blt/mKDDGpBEWs=
+
+Name: assets/cars/car19.obj
+SHA1-Digest: kgo543weuld7Bgb+J5w8sLakjAM=
+
+Name: assets/cars/car19.png
+SHA1-Digest: 59neh3IrBEtjsIjFirsytXull90=
+
+Name: assets/cars/car20.obj
+SHA1-Digest: TFhTMYKpq3i5wCfT/BllmYWwwbM=
+
+Name: assets/cars/car20.png
+SHA1-Digest: uIufSLt856i0BpITm62heidxl8Y=
+
+Name: assets/cars/car21.obj
+SHA1-Digest: J8FYwl1mxH1iE44BpzMbdh2lcN0=
+
+Name: assets/cars/car21.png
+SHA1-Digest: B+upZBF0kaBe/WnAbm/nTxj4e6s=
+
+Name: assets/cars/car22.obj
+SHA1-Digest: grO3AT7LcRnKtc/pdErQWQxeynI=
+
+Name: assets/cars/car22.png
+SHA1-Digest: jli+xZ8yqoH6WU3Cwuyg15VZyts=
+
+Name: assets/cars/car23.obj
+SHA1-Digest: V9T5M9TIPLRM7HyxKmleZFaIcqM=
+
+Name: assets/cars/car23.png
+SHA1-Digest: ouKj7Uok2J4u7719NXzRC/Esmf8=
+
+Name: assets/cars/car24.obj
+SHA1-Digest: 0c0uOVpYMdCy2jjZdLIAR5F8dF8=
+
+Name: assets/cars/car24.png
+SHA1-Digest: aMAv16F5zmh64f2VXk6XfKfiArk=
+
+Name: assets/cars/car25.obj
+SHA1-Digest: FYZDNM5rjG117rVsM8ASJDRYZi8=
+
+Name: assets/cars/car25.png
+SHA1-Digest: Twpy/ue3Q9Z0zo8iRQ1Q95WcLas=
+
+Name: assets/cars/car26.obj
+SHA1-Digest: //u7UwopnAX2QRjlT+LzY8nOLvs=
+
+Name: assets/cars/car26.png
+SHA1-Digest: vkJbjH0OYNd17ylSOSgm9InFRvY=
+
+Name: assets/cars/car27.obj
+SHA1-Digest: EkG515H5F1pfc0XkuB9FWKjei/M=
+
+Name: assets/cars/car27.png
+SHA1-Digest: QPVmUxTF5F1svw7HPs2jpuIQg1A=
+
+Name: assets/cars/light00.obj
+SHA1-Digest: lHd6dVR2bjqcFPsbK4rWIMC3nGM=
+
+Name: assets/cars/light01.obj
+SHA1-Digest: esi0mRNXrMs39aMWn673wnduUPA=
+
+Name: assets/cars/light02.obj
+SHA1-Digest: iWIKyLgJZmHzZt9qRGtrDkj2g3E=
+
+Name: assets/cars/light03.obj
+SHA1-Digest: ylCsCj2ZXTfkdPul9l9ckXOD32U=
+
+Name: assets/cars/light04.obj
+SHA1-Digest: MUtA8dFkqzgPIvGiqZ8zIqOO+oE=
+
+Name: assets/cars/light05.obj
+SHA1-Digest: NlvQr5ZGQzmmUXMf6ql2QU+/cKo=
+
+Name: assets/cars/light06.obj
+SHA1-Digest: 4FDfHZeX5xSh+SsupO7R4Wu8ZWc=
+
+Name: assets/cars/light07.obj
+SHA1-Digest: h/MZBTMh1k1GHpUaTbSEupAcQ+Q=
+
+Name: assets/cars/light08.obj
+SHA1-Digest: hP6VLyZmUOAXI2bRwNb74Kt0QYg=
+
+Name: assets/cars/light09.obj
+SHA1-Digest: nnruRG3U+xWEnUxA3h8/0liTIEQ=
+
+Name: assets/cars/light10.obj
+SHA1-Digest: KlMjyu1i7KaVUho1VLs1h5knusM=
+
+Name: assets/cars/light11.obj
+SHA1-Digest: wlsXoNCvsuVR1uLm8ajX8DL9HVk=
+
+Name: assets/cars/light12.obj
+SHA1-Digest: AftnPeT751PEg6apYhE5BBAb+is=
+
+Name: assets/cars/light13.obj
+SHA1-Digest: T0956fOvz3+rtyVPWNFFSz5Hcyw=
+
+Name: assets/cars/light14.obj
+SHA1-Digest: +DnKMwjiyZhqYJfulAgBsEPpmwc=
+
+Name: assets/cars/light15.obj
+SHA1-Digest: 5XdrG0MEUUQ8LhhoWaWTKidN8Ek=
+
+Name: assets/cars/light16.obj
+SHA1-Digest: YLQ/8IXRKz3PiBi9ujaROgqOqaI=
+
+Name: assets/cars/light17.obj
+SHA1-Digest: U4zbWkQkc2G0Hw5gnbnBLv0gLFc=
+
+Name: assets/cars/light18.obj
+SHA1-Digest: Bj+0puLJXM2g5JbFsAcV9KyjC54=
+
+Name: assets/cars/light19.obj
+SHA1-Digest: uF00FmI/rehdLAlApNBGmkXp7vI=
+
+Name: assets/cars/light20.obj
+SHA1-Digest: FAjrM9pS8/qNqCPvBdtChoI6qsQ=
+
+Name: assets/cars/light21.obj
+SHA1-Digest: MkLbw/tRm5JPFUyqMouediI6szM=
+
+Name: assets/cars/light22.obj
+SHA1-Digest: P9Daz7K7sQgkERWGs95waKvF9Kw=
+
+Name: assets/cars/light23.obj
+SHA1-Digest: kgayeTUxW9H6kVICVY2yQ6pfSog=
+
+Name: assets/cars/light24.obj
+SHA1-Digest: DCrnHVJikZWPTAatHUvZHiLgQl0=
+
+Name: assets/cars/light25.obj
+SHA1-Digest: BZyvASD3dUuUVDlA2MrMMq0KUgQ=
+
+Name: assets/cars/light26.obj
+SHA1-Digest: LV5E0pswhreqRcTrBftxPItO9aM=
+
+Name: assets/cars/light27.obj
+SHA1-Digest: GNUEWZdES3/twXC50LzHgo1pdgw=
+
+Name: assets/cars/light_AI01.obj
+SHA1-Digest: KBPtEAmG0wQNcPkWia1WHBrY9h4=
+
+Name: assets/cars/light_AI02.obj
+SHA1-Digest: s28+hy9H5D3Oc6Y2zfBO+W4Hswo=
+
+Name: assets/envi/check.jpg
+SHA1-Digest: 3FDWFB7gD0xrZ1J58odASBvnZTo=
+
+Name: assets/envi/check.obj
+SHA1-Digest: OpaITjK7uPDKaUpb5VJ6m3/tKVQ=
+
+Name: assets/envi/driver.jpg
+SHA1-Digest: v8ze7mdS0t42W2B6JHZwqD3cDV0=
+
+Name: assets/envi/driver.obj
+SHA1-Digest: B+5b3gGhYwGsCTw63mohrfl6E98=
+
+Name: assets/envi/driver2.obj
+SHA1-Digest: EwuRHE+sVZzZesRW+BI3k5yWiMw=
+
+Name: assets/envi/driver2s.obj
+SHA1-Digest: js5LYjT3L8n0viIs3GZpiNqkZiI=
+
+Name: assets/envi/drivers.obj
+SHA1-Digest: axe9VdyWQ83rDZ4SE+FEcFrDwTk=
+
+Name: assets/envi/light.png
+SHA1-Digest: +pD8XI7j5In8V61UBK5aJ9KWERE=
+
+Name: assets/envi/parking_box.png
+SHA1-Digest: w1auP2654r+nGDBu7qLXrYfmOxE=
+
+Name: assets/envi/parking_off.obj
+SHA1-Digest: TpPcsJ96ai2xhntr6OEMZg2lRjU=
+
+Name: assets/envi/parking_on.obj
+SHA1-Digest: cK7m/9IyfmZq6VId6SmgrvFsq7c=
+
+Name: assets/envi/police.jpg
+SHA1-Digest: NTib4CskstBHwiPjkdihJ7t0LRE=
+
+Name: assets/envi/police.obj
+SHA1-Digest: fXiqfmOBPKUDz7djFxGMGNgjsqo=
+
+Name: assets/envi/polices.obj
+SHA1-Digest: VGHIIHevpX5vS3bNPwbImQ+OmGc=
+
+Name: assets/envi/road_barricade.obj
+SHA1-Digest: dvzV/dATWRoLElSki3kAWXeydig=
+
+Name: assets/envi/road_barricade.png
+SHA1-Digest: IGz4V5tzHfhwWE9JbYbnP1jCtCc=
+
+Name: assets/envi/road_block.obj
+SHA1-Digest: Usm8+gajJYuYmSxlA2BLYoTNVcc=
+
+Name: assets/envi/road_block_1.png
+SHA1-Digest: fxx9yxOQVRPh+purmA1KTA3da+Q=
+
+Name: assets/envi/road_block_2.png
+SHA1-Digest: AsbLFAemiYzcEOw8X1WzjTxlHQ0=
+
+Name: assets/envi/road_fence.obj
+SHA1-Digest: gr7ZmXKgjOYluFbK58G7eIR8QIk=
+
+Name: assets/envi/road_road.jpg
+SHA1-Digest: 8DscGzLIvcH2ZHgrmNFGAgN573o=
+
+Name: assets/envi/road_road.obj
+SHA1-Digest: R/jZqlxfnGEan2RsbQum9eHqcg8=
+
+Name: assets/envi/road_traffic_off.obj
+SHA1-Digest: oYSB4rLukImi+5mEsKBFexxY/Zs=
+
+Name: assets/envi/road_traffic_off.png
+SHA1-Digest: VRbFLknMzvyVP7Z1v2qWJxmAlh8=
+
+Name: assets/envi/road_traffic_on.obj
+SHA1-Digest: 1kAOY/DKkjmuCfpy5oVmsrXeYUs=
+
+Name: assets/envi/road_traffic_on.png
+SHA1-Digest: ZU4KjWVvJSIIaU57CA2LdVzfthQ=
+
+Name: assets/envi/sky.jpg
+SHA1-Digest: veuH+mnoNIoklRoxdUkmezTKk6E=
+
+Name: assets/envi/sky.obj
+SHA1-Digest: EotZjaEEtqAhgI7W+wcLmkqLjgY=
+
+Name: assets/envi/tire.obj
+SHA1-Digest: 8TvBJvGoBwiMij1ebkfpXcnTV8I=
+
+Name: assets/envi/tire.png
+SHA1-Digest: EkBQR/jJ+OvMcAhoUVISd3/tq+U=
+
+Name: assets/envi/tiretrack.obj
+SHA1-Digest: vFwhfDuyJTqblYirzIWEtALfn4c=
+
+Name: assets/envi/tiretrack.png
+SHA1-Digest: pB6kfswlqD0X4jTsXChdE3m1bk0=
+
+Name: assets/envi/vip.jpg
+SHA1-Digest: vpMBw9eSAsz9zSL7A8f4SB9V7As=
+
+Name: assets/envi/vip.obj
+SHA1-Digest: azIEXlPPwsvXA5UUVJTBKQvSjFE=
+
+Name: assets/envi/vips.obj
+SHA1-Digest: 7prMBRICEIFcOkS60nSk5j18VZE=
+
+Name: assets/logo.png
+SHA1-Digest: IGljNW/nFYZUB4nhYXJiAKAmQ70=
+
+Name: assets/menu.png
+SHA1-Digest: AILb06xjLhXeEZFz3KbvnwQ5LnE=
+
+Name: assets/small/AI_car01.png
+SHA1-Digest: 0IBjgmKOUpsYeWxIxF4TjHxzjO4=
+
+Name: assets/small/AI_car02.png
+SHA1-Digest: FF1aycJeZfqGSB+MBAMVv1vHgJo=
+
+Name: assets/small/car00.png
+SHA1-Digest: AXSWjsm0KSpX3TgI4NUhnmW50OI=
+
+Name: assets/small/car01.png
+SHA1-Digest: d0viQ/GlrXu/4rF4bivViVzH4VU=
+
+Name: assets/small/car02.png
+SHA1-Digest: zyseZqAN911++7WEeHMs4qpn0og=
+
+Name: assets/small/car03.png
+SHA1-Digest: jrssCzfczdmRCziME7XGIGYJX38=
+
+Name: assets/small/car04.png
+SHA1-Digest: ceQUKXiGp35srZkVxjBGc8PMCAA=
+
+Name: assets/small/car05.png
+SHA1-Digest: 5Ce3KcHf3qCIEJxgJ4Qfi+AXJHw=
+
+Name: assets/small/car06.png
+SHA1-Digest: L0WWUJ6rx8Y2pTaAUuXacPnk2JQ=
+
+Name: assets/small/car07.png
+SHA1-Digest: S0MVxUeTot5YkAIKrDY/AM1kf/Q=
+
+Name: assets/small/car08.png
+SHA1-Digest: 0uoc9heI4Vnhw0PApIq3IrjbjRQ=
+
+Name: assets/small/car09.png
+SHA1-Digest: P/2hj9Immssc/qdAq8Kg8GZWHr8=
+
+Name: assets/small/car10.png
+SHA1-Digest: 1ONeAktfgZPZsV7O7GG322iPPD4=
+
+Name: assets/small/car11.png
+SHA1-Digest: D1yl7QWO7kHopjvQ7+iftJwmjC4=
+
+Name: assets/small/car12.png
+SHA1-Digest: /G++WN3yY65Z9WsrFL+qudkAl98=
+
+Name: assets/small/car13.png
+SHA1-Digest: W8lzDL14VSuIY04C+AxdNxUP3W4=
+
+Name: assets/small/car14.png
+SHA1-Digest: 9Wp2H2qUmS5m5Ti213Ou4Ksxg2I=
+
+Name: assets/small/car15.png
+SHA1-Digest: EhAEPvdR/esjb16xhyz1Tj42hdA=
+
+Name: assets/small/car16.png
+SHA1-Digest: bZe3Z1RIYpLLeIu5LBFmkNkOEFA=
+
+Name: assets/small/car17.png
+SHA1-Digest: pz/YgirngI5SaxCaB6Hdviy7CPE=
+
+Name: assets/small/car18.png
+SHA1-Digest: wubZgFNVgCJgcHX/cxzrs9Ngvzs=
+
+Name: assets/small/car19.png
+SHA1-Digest: 21M/Nf1rQCVKG/LZINEIY1XAiH0=
+
+Name: assets/small/car20.png
+SHA1-Digest: voD3kyhC958/06pivAiDa05gWsY=
+
+Name: assets/small/car21.png
+SHA1-Digest: 6czv1nazYxBdsmEjeC2+Mg36lVk=
+
+Name: assets/small/car22.png
+SHA1-Digest: zwLhOlDJhk6vn2Ofpocn+KlvOM0=
+
+Name: assets/small/car23.png
+SHA1-Digest: URAmPBTxtk/9ykneM041myl9O/o=
+
+Name: assets/small/car24.png
+SHA1-Digest: poFDGsm/Uoqb795FIE721MmKSOg=
+
+Name: assets/small/car25.png
+SHA1-Digest: +OyOh22jvv/RjQLd4PmpnBONRvQ=
+
+Name: assets/small/car26.png
+SHA1-Digest: f8Ab+IdjEgXOJ1EU9baF919hdos=
+
+Name: assets/small/car27.png
+SHA1-Digest: rRWW3IS6f2rS/b8vUiMvspc+ZXY=
+
+Name: assets/small/road_barricade.png
+SHA1-Digest: WyeGMxPPGB9i09+1xkqgCc9WcDE=
+
+Name: assets/small/road_block_1.png
+SHA1-Digest: xB38gbh4Vf4XZxgxCpS7rDaiL68=
+
+Name: assets/small/road_block_2.png
+SHA1-Digest: EYZ7ijQJQQd1vLy7WyVyEFEwYwo=
+
+Name: assets/sounds/Crash2.ogg
+SHA1-Digest: 79DR3FhpOZqV6dGdbSK0BVTBrUE=
+
+Name: assets/sounds/blinker.ogg
+SHA1-Digest: 6FMlZJk7wL/c3zT2+JB5sgmgbiI=
+
+Name: assets/sounds/brake.ogg
+SHA1-Digest: 1diAS05278B0vxsPx/YMqyM2XmY=
+
+Name: assets/sounds/clap.ogg
+SHA1-Digest: 6uVJeDL9T9sIhl0qMczdvwaAWaM=
+
+Name: assets/sounds/click1.ogg
+SHA1-Digest: rkG92x4dpMI4jBer/7FuPeeEHFA=
+
+Name: assets/sounds/driftlow.ogg
+SHA1-Digest: JrXQdSXEWt94ki3eEPQKKSbQaLc=
+
+Name: assets/sounds/engine6.ogg
+SHA1-Digest: qqT/hrK8dWIT2a9500YU/ndPrvU=
+
+Name: assets/sounds/horn.ogg
+SHA1-Digest: vGh0/yVEabz8Oq8ebBRlXKvtISg=
+
+Name: assets/sounds/newlife.mp3
+SHA1-Digest: 7u8SkCQHtMXgVPk/aXKQnT0NvzE=
+
+Name: assets/sounds/start2.mp3
+SHA1-Digest: gUTWjizH9UPNNOrveVnmNYJ10Zw=
+
+Name: assets/sounds/submission.ogg
+SHA1-Digest: 2AZDVAqGptyzXeoUhqUcjSROJlI=
+
+Name: assets/sounds/toggle2.ogg
+SHA1-Digest: 619V6ZjFcdqnPq3yvPVHwhP28rg=
+
+Name: assets/tiny/AI_car01.png
+SHA1-Digest: DVpYZGm3J7lAQwtaZEjIZJZ+BV8=
+
+Name: assets/tiny/AI_car02.png
+SHA1-Digest: jsIEsoD6a7Ll4UbaEq87CIPQCFY=
+
+Name: assets/tiny/car00.png
+SHA1-Digest: oLzIK5j8e3zJTlW61xYxJFBOv9s=
+
+Name: assets/tiny/car01.png
+SHA1-Digest: 8E1w9wOof0fujarCXls6ifhupv4=
+
+Name: assets/tiny/car02.png
+SHA1-Digest: TgOJA71ozoX0ABccdkxNyHJZsWI=
+
+Name: assets/tiny/car03.png
+SHA1-Digest: FbHd5VWzuoxTUDjI7O3Uv+JDCU8=
+
+Name: assets/tiny/car04.png
+SHA1-Digest: zNaO9q2KKVHk+JBke8mM8WSHNNM=
+
+Name: assets/tiny/car05.png
+SHA1-Digest: M1T9kpUMBK7dcYXS1CRLq+78J0I=
+
+Name: assets/tiny/car06.png
+SHA1-Digest: Qe1bh2s+gcH4JIO1+Cu3Enblplk=
+
+Name: assets/tiny/car07.png
+SHA1-Digest: Ryqu/v97WPq2rSX54Xt4P+szNN4=
+
+Name: assets/tiny/car08.png
+SHA1-Digest: jkSKb2uJc0q/vy7tCEozdirwvAw=
+
+Name: assets/tiny/car09.png
+SHA1-Digest: hBBJNgkbllwI1I+WA0VZz2BcTJA=
+
+Name: assets/tiny/car10.png
+SHA1-Digest: fKU78e/3uxCgJL6yAHxDH7ByNL0=
+
+Name: assets/tiny/car11.png
+SHA1-Digest: GDOR3aH17lIXkBNeR9gODSyflQs=
+
+Name: assets/tiny/car12.png
+SHA1-Digest: PqdB5lPu9qsOUTlz3q2eQKojomQ=
+
+Name: assets/tiny/car13.png
+SHA1-Digest: +izv/duFNm6DjgDndd5vl1h/f4A=
+
+Name: assets/tiny/car14.png
+SHA1-Digest: xv9qeRcnMO+d1JcEGByOaeuC1vc=
+
+Name: assets/tiny/car15.png
+SHA1-Digest: aVHBeSUhTqC5lsW1/O242/V94EU=
+
+Name: assets/tiny/car16.png
+SHA1-Digest: M6sGWDGzft0fGfLyKJ4W2hnJC2A=
+
+Name: assets/tiny/car17.png
+SHA1-Digest: 74qM2leElTJ33SpSd2sQEQdWcJs=
+
+Name: assets/tiny/car18.png
+SHA1-Digest: O/wR+E3ybBaknePXMlkxTgq6YQw=
+
+Name: assets/tiny/car19.png
+SHA1-Digest: Hpr1z8adpu6x7bcbg3DXKm3jVrI=
+
+Name: assets/tiny/car20.png
+SHA1-Digest: WHXCOhfqNEYol3eYgJkYmTOJ4K8=
+
+Name: assets/tiny/car21.png
+SHA1-Digest: AseZJjmRVqHEVnY9E31hTrj+K6k=
+
+Name: assets/tiny/car22.png
+SHA1-Digest: bJ8OIJLue//KdsfWc/+om/8eqIc=
+
+Name: assets/tiny/car23.png
+SHA1-Digest: /ZQ4ftrqw2juUyIvehQaDWgQXc0=
+
+Name: assets/tiny/car24.png
+SHA1-Digest: V0v0hNTdnXAoIL4wPYI5bY3aAuM=
+
+Name: assets/tiny/car25.png
+SHA1-Digest: 0qxoSFaWweqjFbqQ5rbtqexf/XE=
+
+Name: assets/tiny/car26.png
+SHA1-Digest: 3rVWlPhe61rKjbjXLLegYPvzY6Q=
+
+Name: assets/tiny/car27.png
+SHA1-Digest: tRxaz2HO6UwGEnyahvoGfHUDPvU=
+
+Name: assets/tiny/road_barricade.png
+SHA1-Digest: iaat4Gc1XalQbcRSOyifCn+aiko=
+
+Name: assets/tiny/road_block_1.png
+SHA1-Digest: 3Tc4IZ7zLIkX04Z5JDV8lDk6+sE=
+
+Name: assets/tiny/road_block_2.png
+SHA1-Digest: w6aPn0f6oBHaqCJfsvsJjBaOXug=
+
+Name: assets/ui.png
+SHA1-Digest: dEN5fVX12vlJg44TkPAMNck45cM=
+
+Name: assets/world.png
+SHA1-Digest: PM30zFPWEnbb368Cprfh5j0FxHE=
+
+Name: build-data.properties
+SHA1-Digest: X+40nMjieb/s6dxt82Exq52+Uvk=
+
+Name: classes.dex
+SHA1-Digest: YN8dVW/IY8glrXWYFKIGO0LTiRg=
+
+Name: error_prone/Annotations.gwt.xml
+SHA1-Digest: na1Ot7j+j43kcRIeW+Fn98GRYIo=
+
+Name: jsr305_annotations/Jsr305_annotations.gwt.xml
+SHA1-Digest: qleKQAEaDWtvjqExBwBTQxblfek=
+
+Name: protobuf.meta
+SHA1-Digest: d9mmynuS5hZJQO56k0A0n1E2180=
+
+Name: res/color/common_google_signin_btn_text_dark.xml
+SHA1-Digest: 0ysvNdizAyBglaGem+ZZHSY4up4=
+
+Name: res/color/common_google_signin_btn_text_light.xml
+SHA1-Digest: 3iBLN8BcquUJ9fodO41Y/3agjC4=
+
+Name: res/color/common_google_signin_btn_tint.xml
+SHA1-Digest: elhoOc3UWXzn0vP7UecXov0rbKQ=
+
+Name: res/drawable-hdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: 1X+zxf28Nny7aOkIHQF77KboqLs=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_b
+ ackground.9.png
+SHA1-Digest: V3s/YlawQ26DKo0P2hxPmefwmP4=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_
+ background.9.png
+SHA1-Digest: 8b2lVuoPFVTQ+ervxwIcf8QhWaE=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_b
+ ackground.9.png
+SHA1-Digest: XBrlG5PBf4YH6VsSxD2+nV63KbU=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_
+ background.9.png
+SHA1-Digest: dniUuFJ9gBmHXdYxcoGv0I7abTc=
+
+Name: res/drawable-hdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: Frh8AW9iLDxmahoCdZryg8xY5oU=
+
+Name: res/drawable-hdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: Q8+/UkxxAdzHEbStCy6gP5wz9Ww=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: 760W/sNRy+ytRrvY6npK+/XW4bc=
+
+Name: res/drawable-ldpi-v4/ic_launcher.png
+SHA1-Digest: KdaNZ/2xvKPYYJ/vQ+6PzQL+s8Y=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_b
+ ackground.9.png
+SHA1-Digest: QWNxEibXctHKdimj4nbvZC5eWLc=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_
+ background.9.png
+SHA1-Digest: 2ZhjroCw4H+zM0kiLEv3dAf7CTk=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_b
+ ackground.9.png
+SHA1-Digest: P/wxkPCZpWlDXn4V4hSETB1GR4s=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_
+ background.9.png
+SHA1-Digest: +mxE8FoIfwj571EvLiEb0r1DHm4=
+
+Name: res/drawable-mdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: S0ZpKklATh57RGckBxjIOYATXVU=
+
+Name: res/drawable-mdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: BEW+rJtfFQu8wxetRm0dBxGmVJ8=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: lSI6q1a4KuGhJ8HuGg9iHVmymtU=
+
+Name: res/drawable-watch-v20/common_google_signin_btn_text_dark_normal
+ .xml
+SHA1-Digest: P9nltB3eQTRU8y3xOi80QaInDTI=
+
+Name: res/drawable-watch-v20/common_google_signin_btn_text_disabled.xm
+ l
+SHA1-Digest: sOnFXlqGbZ6nXkJmmWKSYOsfngg=
+
+Name: res/drawable-watch-v20/common_google_signin_btn_text_light_norma
+ l.xml
+SHA1-Digest: yyAlz0Suw3Dn2E6N+WeHamgzXZE=
+
+Name: res/drawable-xhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: DFef/yan8ly1VCWwCwiTc+Z/RHQ=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_
+ background.9.png
+SHA1-Digest: yD9oZ20JeI0KgCsh9WHkjjufTLU=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal
+ _background.9.png
+SHA1-Digest: MFYSYOU/3ArXO8hGISK5Q6wX554=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_
+ background.9.png
+SHA1-Digest: eDEv0/H5H+qqc28Qi2s85+/aPLA=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal
+ _background.9.png
+SHA1-Digest: ruYVh+QV8xq1uEVESphseOxNe40=
+
+Name: res/drawable-xhdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: ZcMH44vutC6BZDj/Ys3HeH+gI7w=
+
+Name: res/drawable-xhdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: Ya1tpyHj6UguHBTnIseHxBePDSA=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: Db32SvJ9865UwLKYPtGBAbqyHXE=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal
+ _background.9.png
+SHA1-Digest: UeOh+HJRiySoixJQcw9pSx76zas=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_norma
+ l_background.9.png
+SHA1-Digest: c34B5AvDLPlNunkhFo31jcgGvgw=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal
+ _background.9.png
+SHA1-Digest: kJWGBYkmpyPo8tZlRKh0fttExxk=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_norma
+ l_background.9.png
+SHA1-Digest: 2X8tNk6/lKQvdgHKY7hkaK4bmjk=
+
+Name: res/drawable-xxhdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: sbalRnfCBJXlLc218fU4OXCE3Cs=
+
+Name: res/drawable-xxhdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: LGvcmHErGGfSpvF5at5+NLNAfZA=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: qtd9dsz/oBX1cQJCrFx/FgckwJo=
+
+Name: res/drawable-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: 8MTfQxjpvH+E8g8HAwFlPSui9a8=
+
+Name: res/drawable/common_google_signin_btn_icon_dark.xml
+SHA1-Digest: U89cQ0zj6gjE+S3Zbtl5ceZL68o=
+
+Name: res/drawable/common_google_signin_btn_icon_dark_focused.xml
+SHA1-Digest: psGYFlZzc/sJdKDYacH2U8Zo1Ag=
+
+Name: res/drawable/common_google_signin_btn_icon_dark_normal.xml
+SHA1-Digest: 1Ay+xxv3m7eSQTvxTa35XDmS+hU=
+
+Name: res/drawable/common_google_signin_btn_icon_disabled.xml
+SHA1-Digest: OkwEcJn5MEJWo1c2jQQLb9WhEcU=
+
+Name: res/drawable/common_google_signin_btn_icon_light.xml
+SHA1-Digest: l8DytGG0MapgW6HOfcru0Smhk+U=
+
+Name: res/drawable/common_google_signin_btn_icon_light_focused.xml
+SHA1-Digest: 9zkwCeFb4DI2SVOzGOlUTnMPAl0=
+
+Name: res/drawable/common_google_signin_btn_icon_light_normal.xml
+SHA1-Digest: xYnYX2kLCZsLkkLKaBBx/036xnk=
+
+Name: res/drawable/common_google_signin_btn_text_dark.xml
+SHA1-Digest: rAj9OUQlTPSbQrwQfOaAlSjNQlQ=
+
+Name: res/drawable/common_google_signin_btn_text_dark_focused.xml
+SHA1-Digest: QtqfVUWCbbQ5y+T18epokwxnm6Y=
+
+Name: res/drawable/common_google_signin_btn_text_dark_normal.xml
+SHA1-Digest: WHxYDf6RoycvH8LhIGKoZW8Xsjc=
+
+Name: res/drawable/common_google_signin_btn_text_disabled.xml
+SHA1-Digest: tQLSmByCNFFP6/K78uCizlsCROo=
+
+Name: res/drawable/common_google_signin_btn_text_light.xml
+SHA1-Digest: hoZTHxf8NIDocDZ9u/MYtHY7zos=
+
+Name: res/drawable/common_google_signin_btn_text_light_focused.xml
+SHA1-Digest: GKyDvsiVxew2DGTDIQ3sgzElFEY=
+
+Name: res/drawable/common_google_signin_btn_text_light_normal.xml
+SHA1-Digest: BiTJS5Mw4uAmJwflVCuL4NHJX2Q=
+
+Name: resources.arsc
+SHA1-Digest: k5LkZ+DR8vZoPd4XsLngUnXmn9E=
+
+Name: third_party/java_src/error_prone/project/annotations/Annotations
+ .gwt.xml
+SHA1-Digest: grG4d9CioDKuE/TSndXbzUkhTtA=
+
+Name: third_party/java_src/error_prone/project/annotations/Google_inte
+ rnal.gwt.xml
+SHA1-Digest: 77IOjueQXKTJGt7zmwpPb1YWFlU=
+
